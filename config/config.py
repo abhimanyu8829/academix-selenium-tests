@@ -1,4 +1,4 @@
 BASE_URL = "https://studentdev.theacademix.com/"
 
-LOGIN_ID = "Login"
+LOGIN_ID = "LoginID"
 PASSWORD = "Password"
